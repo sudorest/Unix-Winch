@@ -21,7 +21,7 @@ A vehicle winch system for FiveM that allows players to deploy a winch, hook nea
 
 1. Download the latest release
 2. Extract to your resources folder
-3. Add `ensure unix_winch` to your server.cfg
+3. Add `ensure unix-winch` to your server.cfg
 4. Configure `config.lua` as needed
 
 ## Configuration
