@@ -14,7 +14,7 @@ A vehicle winch system for FiveM that allows players to deploy a winch, hook nea
 
 ## Requirements
 
-- [ox_lib]([https://github.com/overextended/ox_lib](https://github.com/communityox/ox_lib))
+- [ox_lib]([[https://github.com/overextended/ox_lib](https://github.com/communityox/ox_lib)](https://github.com/communityox/ox_lib)
 - [UnixLib](https://github.com/sudorest/Unix-Lib)
 
 ## Installation
