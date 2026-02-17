@@ -1,0 +1,12 @@
+{
+    "winch_deployed": "Winch deployed",
+    "winch_retracted": "Winch retracted",
+    "vehicle_hooked": "Vehicle hooked",
+    "vehicle_released": "Vehicle released",
+    "vehicle_too_far": "Vehicle is too far away",
+    "no_vehicle_found": "No vehicle found nearby",
+    "cannot_hook_vehicle": "Cannot hook this vehicle",
+    "already_hooked": "Vehicle is already hooked",
+    "towing_speed": "Speed reduced while towing",
+    "missing_winch_kit": "You need a winch kit to use this"
+}
